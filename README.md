@@ -53,7 +53,7 @@ Register no: 25017522
 
 ## Output
 ```
-<img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/b7b457e5-2fcc-4aed-9e26-c3dee14396c5" />
+<img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/3ed0deea-8fcb-4122-a955-83d01cc065da" />
 
 ```
 
