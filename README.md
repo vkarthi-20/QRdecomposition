@@ -52,10 +52,8 @@ Register no: 25017522
 ```
 
 ## Output
-```
-<img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/3ed0deea-8fcb-4122-a955-83d01cc065da" />
+<img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/6ed4bc84-bd4d-4c95-8775-3d219fba16b7" />
 
-```
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
